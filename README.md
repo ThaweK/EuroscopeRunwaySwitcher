@@ -2,7 +2,7 @@
 
 EuroscopeRunwaySwitcher is a lightweight Windows utility designed for vATC on the VATSIM network. It allows controllers to quickly apply and verify runway configurations in EuroScope using individual airport presets or predefined West and East configurations. The application reads the current EuroScope runway state and highlights active presets with a green background.
 
-<img width="1020" height="460" alt="image" src="https://github.com/user-attachments/assets/6c8b26a0-d789-46ea-ad3f-20b71b35662d" />
+<img width="1020" alt="EuroScope Runway Preset Manager with staged runway-selection controls" src="docs/images/main-window.png" />
 
 ## Features
 
